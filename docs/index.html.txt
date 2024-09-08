@@ -1,3 +1,5 @@
+Simon Espe 
+Så langt har vi en readme fil, en apache lisens og et index.html dokument.
 <!DOCTYPE html>
 <html>
 <head>
